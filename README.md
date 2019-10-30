@@ -1,4 +1,4 @@
-# gobarber
+# GoBarber
 Aplicação para agendamento de horários para barbearias.
 
 Utilizando às tecnologias:
