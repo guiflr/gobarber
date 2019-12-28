@@ -16,7 +16,7 @@ class NotificationController {
     })
       .sort({ createdAt: 'desc' })
       .limit(20);
-
+    console.log('notifications', notifications);
     return res.json(notifications);
   }
 
